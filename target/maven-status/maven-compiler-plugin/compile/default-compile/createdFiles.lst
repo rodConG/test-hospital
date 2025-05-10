@@ -1,0 +1,16 @@
+com\kosmos\test\hospital\repository\DoctorsOfficeRepository.class
+com\kosmos\test\hospital\dto\AppointmentRequestDTO.class
+com\kosmos\test\hospital\TestHospitalApplication.class
+com\kosmos\test\hospital\controller\AppointmentController.class
+com\kosmos\test\hospital\model\Appointment.class
+com\kosmos\test\hospital\dto\ConsultorioDTO.class
+com\kosmos\test\hospital\dto\AppointmentResponseDTO.class
+com\kosmos\test\hospital\service\impl\CitaServiceImpl.class
+com\kosmos\test\hospital\dto\DoctorDTO.class
+com\kosmos\test\hospital\repository\AppointmentRepository.class
+com\kosmos\test\hospital\service\CitaService.class
+com\kosmos\test\hospital\exception\AppointmentException.class
+com\kosmos\test\hospital\exception\GlobalExceptionHandler.class
+com\kosmos\test\hospital\model\Doctor.class
+com\kosmos\test\hospital\repository\DoctorRepository.class
+com\kosmos\test\hospital\model\DoctorsOffice.class
