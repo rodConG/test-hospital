@@ -1,7 +1,9 @@
-INSERT INTO doctor VALUES(1, 'Luis', 'Ramos', 'Gómez', 'Internal medicine'),
-                         (2, 'Ana', 'Martínez', 'López', 'Internal medicine'),
-                         (3, 'Carlos', 'Fernández', 'Ruiz', 'Internal medicine');
+INSERT INTO doctor (name, paternal_surname, maternal_surname, specialty)
+VALUES
+    ('Luis', 'Ramos', 'Gómez', 'Internal medicine'),
+    ('Ana', 'Martínez', 'López', 'Internal medicine'),
+    ('Carlos', 'Fernández', 'Ruiz', 'Internal medicine');
 
-INSERT INTO doctorsOffice VALUES (1, 101, 'Ground floor'),
-                               (2, 202, 'Second floor'),
-                               (3, 303, 'Third Floor');
+INSERT INTO doctors_office (number_doctors_office, floor) VALUES (101, 'Ground floor'),
+                               (202, 'Second floor'),
+                               (303, 'Third Floor');
